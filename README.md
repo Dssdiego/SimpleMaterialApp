@@ -32,7 +32,9 @@
 - [x] Menu Click opens Navigation Drawer
 - [x] Drawer Item Click opens a Scene
 - [x] Profile Circular Image
+- [x] Drawer Header Click opens a Scene
 - [x] Option to Change Toolbar Color
+- [x] Option to Change Drawer Header Background Image
 - [ ] Facebook Login
 
 **BR:**
@@ -40,7 +42,9 @@
 - [x] Click no Menu abre o Navigation Drawer
 - [x] Clique em um Item do Drawer abre uma Página
 - [x] Imagem do Perfil apresentada em Círculo
+- [x] Click no Header do Drawer abre uma Página
 - [x] Opção de Mudar Cor do Toolbar
+- [x] Opção de Mudar Imagem de Fundo do Header do Drawer
 - [ ] Login do Facebook
 
 ## :checkered_flag: Getting Started (Iniciando)
