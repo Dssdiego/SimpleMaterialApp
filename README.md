@@ -1,8 +1,8 @@
 # SimpleMaterialApp
 
-EN: This is a simple boilerplate for creating React Native apps with Google's Material Design
+**EN:** This is a simple boilerplate for creating React Native apps with Google's Material Design
 
-BR: Este é um app de exemplo para criar aplicativos usando a plataforma React Native, baseado no Material Design do Google 
+**BR:** Este é um app de exemplo para criar aplicativos usando a plataforma React Native, baseado no Material Design do Google 
 
 *Note: This project works only on Android*
 
@@ -10,20 +10,25 @@ BR: Este é um app de exemplo para criar aplicativos usando a plataforma React N
 
 ## Getting Started (Iniciando)
 
-EN: These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+**EN:** These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-BR: As instruções abaixo te ensinarão a copiar o projeto para sua máquina local e rodá-lo sem problemas.  
+**BR:**  As instruções abaixo te ensinarão a copiar o projeto para sua máquina local e rodá-lo sem problemas.  
 
 ### Prerequisities (Requisitos)
 
-BR: Este projeto utiliza duas bibliotecas para a construção dos Layouts, sendo eles:
+**EN:** This project uses two libraries for building the layouts, being:
+
+- [react-native-material-design-styles](https://github.com/binggg/react-native-material-design-styles)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+**BR:**  Este projeto utiliza duas bibliotecas para a construção dos Layouts, sendo eles:
 
 - [react-native-material-design-styles](https://github.com/binggg/react-native-material-design-styles)
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 ### Installation (Instalação)
 
-EN:
+**EN:**
 
 1. Clone Repository
 ```
@@ -36,7 +41,7 @@ git clone https://github.com/Dssdiego/SimpleMaterialApp.git
 
 > If running on a device, run `adb reverse tcp:8081 tcp:8081`.
 
-BR:
+**BR:** 
 
 1. Faça o Clone do Repositório
 ```
@@ -51,15 +56,15 @@ git clone https://github.com/Dssdiego/SimpleMaterialApp.git
 
 ## How the App Works (Como o App Funciona)
 
-EN: Coming soon...
+**EN:** Coming soon...
 
-BR: Em breve...
+**BR:**  Em breve...
 
 ## Important Notes (Observações Importantes)
 
-EN: This project does not use [*Navigation*](http://facebook.github.io/react-native/releases/0.33/docs/navigation.html#navigation), being conceived as a **Single Page App**!
+**EN:** This project does not use [*Navigation*](http://facebook.github.io/react-native/releases/0.33/docs/navigation.html#navigation), being conceived as a **Single Page App**!
 
-BR: Este projeto não usa [*Navigation*](http://facebook.github.io/react-native/releases/0.33/docs/navigation.html#navigation), sendo tratado por tanto como um **Single Page App**!
+**BR:**  Este projeto não usa [*Navigation*](http://facebook.github.io/react-native/releases/0.33/docs/navigation.html#navigation), sendo tratado por tanto como um **Single Page App**!
 
 ## Author (Autor)
 
@@ -67,6 +72,6 @@ BR: Este projeto não usa [*Navigation*](http://facebook.github.io/react-native/
 
 ## License (Licença)
 
-EN: This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+**EN:** This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-BR: Este projeto é licensiado pela licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes
+**BR:**  Este projeto é licensiado pela licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes
