@@ -1,4 +1,4 @@
-# SimpleMaterialApp
+# react-native-drawer-material-app
 
 <p align="center">
   <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/mainscreen.png" alt="Main Screen" width="500px">
