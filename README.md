@@ -49,7 +49,7 @@
 
 1. Clone Repository
 ```
-git clone https://github.com/Dssdiego/SimpleMaterialApp.git
+git clone https://github.com/Dssdiego/react-native-drawer-material-app.git
 ```
 2. Run `npm install`
 3. Install required libs
@@ -62,7 +62,7 @@ git clone https://github.com/Dssdiego/SimpleMaterialApp.git
 
 1. Faça o Clone do Repositório
 ```
-git clone https://github.com/Dssdiego/SimpleMaterialApp.git
+git clone https://github.com/Dssdiego/react-native-drawer-material-app.git
 ```
 2. Rode o comando `npm install`
 3. Instale as bibliotecas requisitadas
