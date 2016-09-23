@@ -25,6 +25,24 @@
   <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page7.png" alt="Profile" width="200px">
 </p>
 
+## Features of the App (Características do App)
+
+:us: **EN:**
+
+- [x] Menu Click opens Navigation Drawer
+- [x] Drawer Item Click opens a Scene
+- [x] Profile Circular Image
+- [x] Option to Change Toolbar Color
+- [ ] Facebook Login
+
+**BR:**
+
+- [x] Click no Menu abre o Navigation Drawer
+- [x] Clique em um Item do Drawer abre uma Página
+- [x] Imagem do Perfil apresentada em Círculo
+- [x] Opção de Mudar Cor do Toolbar
+- [ ] Login do Facebook
+
 ## :checkered_flag: Getting Started (Iniciando)
 
 :us: **EN:** These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
