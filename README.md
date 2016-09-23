@@ -1,5 +1,9 @@
 # SimpleMaterialApp
 
+<p align="center">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/mainscreen.png" alt="Main Screen" width="500px">
+</p>
+
 :us: **EN:** This is a simple boilerplate for creating React Native apps with Google's Material Design
 
 **BR:** Este é um app de exemplo para criar aplicativos usando a plataforma React Native, baseado no Material Design do Google 
@@ -7,6 +11,19 @@
 :us: *Note: This project works only on Android*
 
 *Obs: Este projeto só funciona para Android*
+
+## Screenshots (Telas)
+
+<p align="center">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/profile.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page1.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page2.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page3.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page4.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page5.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page6.png" alt="Profile" width="200px">
+  <img src="https://github.com/Dssdiego/SimpleMaterialApp/blob/master/src/img/page7.png" alt="Profile" width="200px">
+</p>
 
 ## :checkered_flag: Getting Started (Iniciando)
 
