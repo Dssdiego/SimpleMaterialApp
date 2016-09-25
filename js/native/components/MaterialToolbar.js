@@ -47,7 +47,8 @@ export default class MaterialToolbar extends React.Component {
           title={this.props.title}
           titleColor='white'
           contentInsetStart={72}
-          onIconClicked={this.props.openDrawer} >
+          onIconClicked={this.props.openDrawer}
+          overflowIcon={require('../../../src/img/icons/dots-vertical.png')} >
           </MaterialIcon.ToolbarAndroid>
     </View>
     );
